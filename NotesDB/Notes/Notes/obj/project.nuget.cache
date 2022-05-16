@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBbi6eC4cmnjED9V5PYZyTmBfrP/EvdO7KKxl6iqi7aAk2bbAH5o7fuRXECHhIhBRyy7rASA2LYvsgO4UKL37w==",
+  "success": true,
+  "projectFilePath": "C:\\node\\marusi\\q\\NotesDB\\Notes\\Notes\\Notes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikapa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.3\\sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.3\\sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\ikapa\\.nuget\\packages\\xamarin.forms\\5.0.0.1931\\xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}
